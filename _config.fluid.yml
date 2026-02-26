@@ -1,9 +1,19 @@
-# 导航栏的相关配置
-# Navigation bar
-navbar:
-  # 导航栏左侧的标题，为空则按 hexo config 中 `title` 显示
-  # The title on the left side of the navigation bar. If empty, it is based on `title` in hexo config
-  blog_title: "Relife"
+# 首页
+# Home Page
+index:
+  # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
+  # Path of Banner image, can be a relative path or an absolute path, the same on other pages
+  banner_img: /img/default.png
+
+  # 头图高度，屏幕百分比
+  # Height ratio of banner image
+  # Available: 0 - 100
+  banner_img_height: 100
+
+  # 头图黑色蒙版的不透明度，available: 0 - 1.0，1 是完全不透明
+  # Opacity of the banner mask, 1.0 is completely opaque
+  # Available: 0 - 1.0
+  banner_mask_alpha: 0.3
 
   # 首页副标题的独立设置
   # Independent config of home page subtitle
@@ -11,5 +21,5 @@ navbar:
     enable: true
 
     # 为空则按 hexo config.subtitle 显示
-    # If empty, text based on `subtitle` in hexo config
+    # If empty, text based on subtitle in hexo config
     text: "a record of past present and future"
