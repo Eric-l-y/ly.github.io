@@ -12,4 +12,4 @@ navbar:
 
     # 为空则按 hexo config.subtitle 显示
     # If empty, text based on `subtitle` in hexo config
-    text: "一个记录过去，现在，和将来的冰屋"
+    text: "a record of past present and future"
