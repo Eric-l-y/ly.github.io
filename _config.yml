@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 一个技术员的瞎折腾
 subtitle: ''
 description: ''
 keywords:
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://ly.github.io/project
+url: https://ly-github-io.pages.dev/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,6 +102,6 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:shincomon@outlook.com/username.github.io.git
+  repo: git@github.com:Eric-l-y/ly.github.io.git
   branch: main
   message: Power by F0ne # 自动部署commit备注，可不填
