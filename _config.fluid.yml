@@ -1,3 +1,19 @@
+# 导航栏的相关配置
+# Navigation bar
+navbar:
+  # 导航栏左侧的标题，为空则按 hexo config 中 	itle 显示
+  # The title on the left side of the navigation bar. If empty, it is based on 	itle in hexo config
+  blog_title: "ReBorn"
+
+  # 首页副标题的独立设置
+  # Independent config of home page subtitle
+  slogan:
+    enable: true
+
+    # 为空则按 hexo config.subtitle 显示
+    # If empty, text based on subtitle in hexo config
+    text: "a record of past present and future"
+
 # 首页
 # Home Page
 index:
@@ -14,12 +30,3 @@ index:
   # Opacity of the banner mask, 1.0 is completely opaque
   # Available: 0 - 1.0
   banner_mask_alpha: 0.3
-
-  # 首页副标题的独立设置
-  # Independent config of home page subtitle
-  slogan:
-    enable: true
-
-    # 为空则按 hexo config.subtitle 显示
-    # If empty, text based on subtitle in hexo config
-    text: "a record of past present and future"
