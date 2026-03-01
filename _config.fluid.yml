@@ -39,3 +39,14 @@ index:
     # 为空则按 hexo config.subtitle 显示
     # If empty, text based on subtitle in hexo config
     text: "An igloo that stores the past, present, and future"
+
+# 页脚
+# Footer
+footer:
+  # 页脚第一行文字的 HTML
+  # HTML of the first line of the footer
+  content: '
+    <span>Eric.L</span>
+    <i class="iconfont icon-love"></i>
+    <span>S.L</span>
+  '
