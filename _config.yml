@@ -67,6 +67,10 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  技术实践: tech-practice
+  "AI & 自动化": ai-automation
+  学习与成长: growth
+  生活随笔: life-notes
 tag_map:
 
 # Metadata elements
