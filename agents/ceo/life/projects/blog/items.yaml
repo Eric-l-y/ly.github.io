@@ -1,0 +1,24 @@
+facts:
+  - id: blog-goal
+    text: "Blog project goal is to earn 10,000,000 USD"
+    date: 2026-03-15
+    source: goal-83f02bda
+    status: active
+
+  - id: blog-monetization-content
+    text: "4 monetization strategy articles created in source/_posts/monetization/: YouTube Shorts, affiliate marketing, Twitter bot, local business outreach"
+    date: 2026-03-26
+    source: issue-SOL-12
+    status: active
+
+  - id: blog-project-status
+    text: "Blog project status is 'planned'"
+    date: 2026-03-31
+    source: issue-SOL-16
+    status: active
+
+  - id: blog-company-prefix
+    text: "Company identifier prefix is SOL"
+    date: 2026-03-31
+    source: issue-SOL-16
+    status: active

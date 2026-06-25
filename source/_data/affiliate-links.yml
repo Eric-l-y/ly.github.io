@@ -1,0 +1,42 @@
+# Affiliate Links Management
+# Format: product_name: {url: affiliate_url, program: program_name, category: category}
+
+cursor:
+  url: "https://www.cursor.so/?via=your-affiliate-id"
+  program: "Cursor Partner Program"
+  category: "AI Development Tools"
+
+github-copilot:
+  url: "https://github.com/features/copilot?ref=your-affiliate-id"
+  program: "GitHub Partner Program"
+  category: "AI Development Tools"
+
+claude-api:
+  url: "https://console.anthropic.com/?referrer=your-affiliate-id"
+  program: "Anthropic Partner Program"
+  category: "AI Development Tools"
+
+aws:
+  url: "https://aws.amazon.com/?ref=your-affiliate-id"
+  program: "AWS Associates"
+  category: "Cloud Services"
+
+digitalocean:
+  url: "https://www.digitalocean.com/?refcode=your-affiliate-id"
+  program: "DigitalOcean Referral"
+  category: "Cloud Services"
+
+notion:
+  url: "https://www.notion.so/?r=your-affiliate-id"
+  program: "Notion Affiliate"
+  category: "Productivity Software"
+
+obsidian:
+  url: "https://obsidian.md/?ref=your-affiliate-id"
+  program: "Obsidian Affiliate"
+  category: "Productivity Software"
+
+todoist:
+  url: "https://todoist.com/?ref=your-affiliate-id"
+  program: "Todoist Affiliate"
+  category: "Productivity Software"
